@@ -2,7 +2,7 @@
   <p align="center"><b>Machine Learning Engineer</b> 🚀</p> <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfarooq0001" alt="mfarooq0001" /></a> </p>
 <br>
-<p align="center"> <b>When Farooq isn’t diving deep into machine learning algorithms, he’s probably cracking jokes about them—because why should neural networks have all the fun figuring things out! </b></p>
+<p align="center"> <b>💭 ** Fun Fact: When Farooq isn’t diving deep into machine learning algorithms, he’s probably cracking jokes about them—because why should neural networks have all the fun figuring things out!** </b></p>
 
   📢 Specializing in building intelligent AI/ML applications that bridge the worlds of <b>Deep Learning</b>, <b>Computer Vision</b>, <b>Language Models</b> (LLMs), and <b>Retrieval-Augmented Generation</b> (RAG). Passionate about leveraging advanced algorithms and data-driven insights to tackle complex challenges in <b>image processing, object detection, predictive modeling, and natural language understanding</b>.<br><br>
   
